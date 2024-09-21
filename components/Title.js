@@ -8,7 +8,7 @@ const Title = () => {
   return (
     <View  style= {styleText.viewStyle}>
     <View>
-        <Image source={require('../assets/images/BharatSe Logo.jpg')}  style={styleText.imageStyle} />
+        <Image source={require('../assets/images/Bharatiya.png')}  style={styleText.imageStyle} />
     </View>
     </View>
   )

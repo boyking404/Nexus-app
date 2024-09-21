@@ -8,8 +8,8 @@ const Index = () => {
     <View style={styles.container}>
       <Link href={'/home'} style={styles.linkStyle}>
         <View style={styles.viewStyle}>
-        <Image source={require('../assets/images/logo1.png')} style={styles.imageStyle} />
-        <Text style={styles.textStyles}>Bharat<Text style={styles.textStyle2s} t>Se</Text></Text>
+        <Image source={require('../assets/images/icon1.png')} style={styles.imageStyle} />
+        <Text style={styles.textStyles}>Bharat<Text style={styles.textStyle2s} t>iya</Text></Text>
         </View>
       </Link>
     </View>
